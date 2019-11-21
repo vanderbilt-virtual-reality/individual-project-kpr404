@@ -1,0 +1,15 @@
+# Kelson Reiss Individual Project
+
+**Anything the user needs to know to play/run game**
+
+There are two scenes in this VR project. The first is the introduction, which explains the context around the experience. To allow time for the user to read the intro message, the user can advance whenever he or she would like by clicking both joystick buttons. The second scene is a simulated flooded coastal town with abandoned homes, which the user can interact with and explore. 
+
+**Why did you make this?  Your intention or motivation**
+
+Climate change is a cause I’m very passionate about. I consider it to be one of the most significant and daunting crises that we collectively face as a race. I’m currently enrolled in an interdisciplinary course here at Vanderbilt in which we evaluate the causes, anticipated consequences, and potential solutions to climate change. A major theme throughout the course has been an investigation into risk evaluation. In other words, why don’t more people care about climate change? The scientific consensus worldwide around the evidence and expected damage is now near universal; our past actions and continued actions are leading to an unprecedented environmental crisis. In class, we read a book by Mary Robinson called “Climate Justice”, in which she argues that there isn’t enough widespread collective action because people have a difficult time mentally grasping the true risk and impact of the situation. In other words, the consequences are so large and overwhelming that we psychologically have a hard time processing them. Therefore, here in Nashville, TN for example, there is a mental disconnect between our present actions and expected future consequences. 
+
+I made this project to attempt to help bridge this mental disconnect. I think if people have a better idea of what a world in which climate change’s most dire consequences have occurred looks and feels like, they have a better chance of adjusting their own habits or at least advocating for larger sustainability measures. In Al Gore’s speech here on campus last night, he implored people to do their individual part to realize what climate change will be like and act accordingly. Hopefully, this experience will help accomplish that. 
+
+**Why is VR a good medium to achieve your goals?**
+
+Virtual Reality is an effective and incredible medium for education because it allows for people to experience situations or places inaccessible in their daily lives. The coastal flooding that climate change will cause is distant both in time and place. Living in Nashville, TN, we likely have a more difficult time empathizing with the consequences of climate change than those in Jakarta, Indonesia for example. Further, the main effects haven’t yet come into fruition. Using VR, we are able to overcome both the time and geography barrier to fully experience what it might be like. Reading articles or watching documentaries is useful and important yet insufficient to fully realize the risk of our crisis. Virtual reality allows for a more visceral and tangible experience. 
